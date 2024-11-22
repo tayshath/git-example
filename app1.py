@@ -53,3 +53,8 @@ if st.button("Generate"):
     else:
         st.error("Please fill in all fields before generating.")
 
+# this is
+n=10
+for i in range(n):
+    if i<=10:
+        print(i)
