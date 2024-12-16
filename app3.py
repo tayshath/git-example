@@ -1,4 +1,5 @@
 import streamlit as st
+import sys
 
 def generate_project_outputs(name, pitch, description):
     """Generate 10 variations of project details based on the input."""
