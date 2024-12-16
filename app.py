@@ -12,7 +12,7 @@ def generate_project_outputs(name, pitch, description):
     return projects
 
 # Streamlit App
-st.title("Project Idea Generator")
+st.title("Project Idea Generator1")
 
 # Pre-fill Dummy Data
 if st.checkbox("Use Dummy Data"):
